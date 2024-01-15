@@ -1,0 +1,51 @@
+Arthur Paul Pedersen
+Theoretical Computer Science Miprerm Exam
+
+15 November 2023
+
+Name:
+
+Write your ful name on the midterm exam, Solutions are
+your full name in the top righthand corner o the front and back of each sheer of ]
+
+ofeach sheet of paper, and enumerate the pages
+in the lower efthand corner of each sheet of paper. Return (1) the inal exam with gous writen meamcrrs? Too i
+
+2 (2) all other sheets of paper (used or unused). Select five (5) of the following problems to complete. Shes
+your work, % ?
+
+10 be written on the provided sheets of paper. Wi ;
+
+1. Consider alphabet I = [0,1] and language Lo,
+»
+
+WEE: w= 071" for some nonnegative n€ 2)
+
+rove or disprove that for each language L over £,if L © Loy and L is regular, then L is finite.
+
+2. Consider alphabet = (0,1) and language Loy = {u€ 5 : w= 0" or some nonnegative 2
+
+Prove or disprove that for each language L over 5, if. 0 Loy =0 and L is regular, then L is finite.
+
+3. Let L be a finite language over alphabet 5
+
+1b]. Show that for every nonnegative integer 1 and deterministic
+Lif M has exactly n states, then 1 > log,(|L| + 1).
+
+finite automaton M that recognize:
+
+4. Prove or disprove that for every alphabet ¥ and language L over ¥, if L is non-regular, then L* is non-regular.
+
+5. Let L be a language recognized by an NFA with exactly k states. Prove or disprove that every DFA that recognizes
+L has at least 2* states.
+
+6, Consider alphabet © = [a,b] and language L = [wes : w
+3}. Prove or disprove that L is regular.
+
+"ya" for some positive integer n€ Zand ©
+
+7. Let L be an infinite regular language recognized by a DFA
+
+exactly k states. Prove that there is a string w€ |
+such that k < ful < 2k.
+
